@@ -23,6 +23,6 @@ Performed a MITM-attack in the virtual environment.
 * hack.py conducts ARP Poison
 * Makefile compiles the correction.c
 * nodeWebsocket.js receives the victim information
-* index.html login page
+* index.html is login page
 
 <img src="Animation.gif" width="300" height="200" />
