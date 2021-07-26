@@ -2,6 +2,10 @@
 
 Performed a MITM-attack in the virtual environment.
 
+## Conduct ARP Poison example
+
+    python3 hack.py -i ens33 -t 192.168.235.143 -m rep 192.168.235.142
+
 ## Compile correction
 
     make
